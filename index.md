@@ -1,25 +1,15 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "ExplodeNut Blog"
-  text: "ExplodeNut's Blog Website"
-  tagline: My great project tagline
+  name: "ExplodeNut的Wiki网站"
+  tagline: GO！
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 游戏 Mod
+      link: /game-modding/
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: 浏览资源
+      link: /resources/
 ---
 
